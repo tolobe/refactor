@@ -1,0 +1,80 @@
+/* @import "./styles.css"; */
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Verdana";
+	background-color: #384538;
+	color: e4f5e4;
+}
+
+main {
+	width: 100%;
+}
+
+p {
+	text-align: middle;
+}
+
+card {
+	padding: 50px;
+	background-color: 3845f8;
+}
+
+/* Header styles */
+header {
+	background-color: 384538;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+h3 {
+	padding-bottom: 20px;
+}
+
+/* Style navigation bar */
+.topnav {
+	overflow: hidden;
+	background-color: rgb(192, 47, 47)
+}
+
+/* Style nav links */
+.topnav a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* Change color on hover */
+
+article {
+	margin: 20px;
+	background-color: 0f290f;
+	padding: 30px;  
+	line-height: 240%;
+}
+
+section {
+	background-color: 0f290f;
+}
+
+footer {
+	background-color: 0f290f;
+	height: 40px;
+	display: inline;
+}
+
+aside {
+	float: right;
+	width: 30%;
+	margin: 0px;
+	position: static;	
+	background-color: green;
+
+}
